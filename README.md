@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lyanderson
 - 🚀 Cyber ​​Security and Computer Networks Enthusiast
-- 🌱 I’m currently learning Python and Linear Algebra
+
   
 ## ⚡ Programming languages
 <div style="display: inline_block"><br> 
